@@ -10,15 +10,7 @@ Aşağıda manuel oynanış ile otonom yapay zeka ajanının karşılaştırmas�
 
 | **Mod 1: Manuel Oynanış** (İnsan) | **Mod 2: Otonom Yapay Zeka** (BFS Algoritması) |
 | :---: | :---: |
-| *(
-
-https://github.com/user-attachments/assets/39d71157-dba5-4ea6-9253-8dfcb10857d6
-
-)* | *(
-
-https://github.com/user-attachments/assets/702d8ac3-8e78-4076-baa4-294587c6b159
-
-)* |
+| *(https://github.com/user-attachments/assets/39d71157-dba5-4ea6-9253-8dfcb10857d6)* | *(https://github.com/user-attachments/assets/702d8ac3-8e78-4076-baa4-294587c6b159)* |
 | *Klavye ile kontrol edilir.* | *En uygun yolu otomatik olarak hesaplar.* |
 
 ## 🚀 Özellikler
